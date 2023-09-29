@@ -8,12 +8,11 @@ You can click the Preview link to take a look at your changes.
 - I’m Shubham Vandara.
 - Welcome to my Git-Hub profile. Here I am upload my projects. I hope it will help you in certain points in your programming journey.
 - I’m interested in Programming, Reading, Learn new things.
-- Currently, I am Working as a Web developer at Huptech Web Pvt Ltd Ahmedabad.
 
 ## Connect with me:
 
 <p>
   <a href = "https://www.linkedin.com/in/shubham-vandara-b35814173"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://www.instagram.com/shubham_vandara"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href = "https://codepen.io/your-work/?cursor=ZD0wJm89MSZwPTEmdj02MDQzNzI0Ng=="><img src="https://img.icons8.com/fluent/48/000000/codepen.png"/></a>
+  <a href = "https://codepen.io/shubham-vandara/"><img src="https://img.icons8.com/fluent/48/000000/codepen.png"/></a>
 </p>
