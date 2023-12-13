@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Hello
 
-- I’m Shubham Vandara.
-- Welcome to my Git-Hub profile. Here I am upload my projects. I hope it will help you in certain points in your programming journey.
-- I’m interested in Programming, Reading, Learn new things.
+- Hello I’m Shubham Vandara.
+- Welcome to my Git-Hub profile. Here I am uploading my projects. I hope it will help you at certain points in your programming journey.
+- I’m interested in Programming, Reading Books, and learning new things.
 
 ## Connect with me:
 
