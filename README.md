@@ -4,40 +4,44 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Shubham Vandara</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
-# 💫 About Me:
+## 💫 About Me:
+
 🌱 I’m currently learning Java Full stack Development<br>
 📝 I generally write articles on https://shubhamvandara.blogspot.com/<br>
-📫 How to reach me shubhvandara@gmail.com<br>
+📫 How to reach me, Click below to any social media link to connect with me.<br>
 ⚡ Fun fact I think I am funny 😊
 
 ## 🌐 Socials:
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-vandara-b35814173/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png?ga=GA1.1.79840314.1703866704&" alt="https://www.linkedin.com/in/shubham-vandara-b35814173/" height="40" width="40" /></a> &nbsp;
-<a href="https://codepen.io/https://codepen.io/shubham-vandara/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/51/51767.png?ga=GA1.1.79840314.1703866704&" alt="https://codepen.io/shubham-vandara/" height="40" width="40" /></a> &nbsp;
-<a href="https://instagram.com/https://www.instagram.com/shubham_vandara" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png?ga=GA1.1.79840314.170386670" alt="https://www.instagram.com/shubham_vandara" height="40" width="40" /></a> &nbsp;
-<a href="https://t.me/web_development_resources" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png?ga=GA1.1.79840314.1703866704&" alt="https://t.me/web_development_resources" height="40" width="40" /></a> &nbsp;
-<a href="https://in.pinterest.com/shubham_vandara/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/220/220214.png?ga=GA1.1.79840314.1703866704&" alt="https://in.pinterest.com/shubham_vandara/" height="40" width="40" /></a> &nbsp;
-<a href="https://www.quora.com/profile/Shubham-Vandara-2" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670086.png?ga=GA1.1.79840314.1703866704&" alt="https://www.instagram.com/shubham_vandara" height="40" width="40" /></a> &nbsp;
-<a href="https://shubhamvandara.blogspot.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670273.png?ga=GA1.1.79840314.1703866704&" alt="https://shubhamvandara.blogspot.com/" height="40" width="40" /></a> &nbsp;
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-vandara-b35814173/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/shubham-vandara-b35814173/" height="40" width="40" /></a> &nbsp;
+<a href="https://codepen.io/https://codepen.io/shubham-vandara/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=codepen&theme=light" alt="https://codepen.io/shubham-vandara/" height="40" width="40" /></a> &nbsp;
+<a href="https://instagram.com/https://www.instagram.com/shubham_vandara" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/shubham_vandara" height="40" width="40" /></a> &nbsp;
+<a href="https://t.me/web_development_resources" target="blank"><img style="margin-bottom: 10px" align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png?ga=GA1.1.79840314.1703866704&" alt="https://t.me/web_development_resources" height="40" width="40" /></a> &nbsp;
+<a href="https://in.pinterest.com/shubham_vandara/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://cdn-icons-png.flaticon.com/512/220/220214.png?ga=GA1.1.79840314.1703866704&" alt="https://in.pinterest.com/shubham_vandara/" height="40" width="40" /></a> &nbsp;
+<a href="https://www.quora.com/profile/Shubham-Vandara-2" target="blank"><img style="margin-bottom: 10px" align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670086.png?ga=GA1.1.79840314.1703866704&" alt="https://www.quora.com/profile/Shubham-Vandara-2" height="40" width="40" /></a> &nbsp;
+<a href="https://shubhamvandara.blogspot.com/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670273.png?ga=GA1.1.79840314.1703866704&" alt="https://shubhamvandara.blogspot.com/" height="40" width="40" /></a> &nbsp;
 </p>
 
-
 ## 💻 Tech Stack:
+
 <p align="left">
-<a href=https://getbootstrap.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40" width="40" /></a> &nbsp;
-<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="40" /></a> &nbsp;
-<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> &nbsp;
-<a href="https://git-scm.com/" target="blank" > <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp;
-<a href="https://www.w3.org/html/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;
-<a href="https://www.mysql.com/" target="blank" > <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> &nbsp;
-<a href="https://reactjs.org/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> &nbsp;
-<a href="https://tailwindcss.com/" target="blank" > <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> &nbsp;
+<a  href="https://www.w3.org/html/" target="blank"> <img style="margin-bottom: 10px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp;
+<a href="https://www.w3schools.com/css/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="40" /></a> &nbsp;
+<a href=https://getbootstrap.com" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="40" width="40" /></a> &nbsp;
+<a href="https://tailwindcss.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="tailwind" width="40" height="40"/></a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"> <img style="margin-bottom: 10px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;
+<a href="https://reactjs.org/" target="blank" ><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=react&theme=light" alt="react" width="40" height="40"/></a> &nbsp;
+<a href="https://www.mysql.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> &nbsp;
+<a href="https://www.w3schools.com/css/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> &nbsp;
+<a href="https://git-scm.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp;
+<a href="https://git-scm.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="git" width="40" height="40"/></a> &nbsp;
 </p>
 
 ## 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=shubham-vandara&theme=default&hide_border=false&include_all_commits=false&count_private=false) &nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubham-vandara&theme=default&hide_border=false)<br/>
 
@@ -46,14 +50,15 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-vandara)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&hide_border=false)
+
 ### 😂 Random Dev Meme
+
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=shubham-vandara&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
