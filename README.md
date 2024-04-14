@@ -9,21 +9,21 @@ You can click the Preview link to take a look at your changes.
 ## 💫 About Me:
 
 🌱 I’m currently learning Java Full stack Development<br>
-📝 I generally write articles on https://shubhamvandara.blogspot.com/<br>
+📝 I generally write articles on https://shubhamvandara.hashnode.dev/<br>
 📫 How to reach me, Click below to any social media link to connect with me.<br>
 ⚡ Fun fact I think I am funny 😊
 
 ## 🌐 Socials:
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-vandara-b35814173/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/shubham-vandara-b35814173/" height="40" width="40" /></a> &nbsp;
-<a href="https://codepen.io/https://codepen.io/shubham-vandara/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=codepen&theme=light" alt="https://codepen.io/shubham-vandara/" height="40" width="40" /></a> &nbsp;
-<a href="https://instagram.com/https://www.instagram.com/shubham_vandara" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/shubham_vandara" height="40" width="40" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/shubham-vandara/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/shubham-vandara-b35814173/" height="40" width="40" /></a> &nbsp;
+<a href="https://codepen.io/shubham-vandara/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=codepen&theme=light" alt="https://codepen.io/shubham-vandara/" height="40" width="40" /></a> &nbsp;
+<a href="https://www.instagram.com/shubham_vandara" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/shubham_vandara" height="40" width="40" /></a> &nbsp;
 <a href="https://t.me/web_development_resources" target="blank"><img style="margin-bottom: 10px" align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png?ga=GA1.1.79840314.1703866704&" alt="https://t.me/web_development_resources" height="40" width="40" /></a> &nbsp;
 <a href="https://in.pinterest.com/shubham_vandara/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://cdn-icons-png.flaticon.com/512/220/220214.png?ga=GA1.1.79840314.1703866704&" alt="https://in.pinterest.com/shubham_vandara/" height="40" width="40" /></a> &nbsp;
-<a href="https://www.quora.com/profile/Shubham-Vandara-2" target="blank"><img style="margin-bottom: 10px" align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670086.png?ga=GA1.1.79840314.1703866704&" alt="https://www.quora.com/profile/Shubham-Vandara-2" height="40" width="40" /></a> &nbsp;
-<a href="https://shubhamvandara.blogspot.com/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670273.png?ga=GA1.1.79840314.1703866704&" alt="https://shubhamvandara.blogspot.com/" height="40" width="40" /></a> &nbsp;
-</p>
+<a href="https://shubhamvandara.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://shubhamvandara.hashnode.dev/" height="40" width="40" /></a> &nbsp;
+<a href="https://www.hackerrank.com/profile/shubham_vandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shubham_vandara" height="40" width="40" /></a> &nbsp;
+<a href="https://leetcode.com/shubham_vandara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shubham_vandara/https://leetcode.com/shubham_vandara/" height="40" width="40" /></a> &nbsp;
 
 ## 💻 Tech Stack:
 
@@ -34,10 +34,11 @@ You can click the Preview link to take a look at your changes.
 <a href="https://tailwindcss.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="tailwind" width="40" height="40"/></a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"> <img style="margin-bottom: 10px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;
 <a href="https://reactjs.org/" target="blank" ><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=react&theme=light" alt="react" width="40" height="40"/></a> &nbsp;
+<a href="https://www.java.com/en/" target="blank" ><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=java&theme=light" alt="react" width="40" height="40"/></a> &nbsp;
 <a href="https://www.mysql.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> &nbsp;
-<a href="https://www.w3schools.com/css/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> &nbsp;
+<a href="https://www.figma.com/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> &nbsp;
 <a href="https://git-scm.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp;
-<a href="https://git-scm.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="git" width="40" height="40"/></a> &nbsp;
+<a href="https://code.visualstudio.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="git" width="40" height="40"/></a> &nbsp;
 </p>
 
 ## 📊 GitHub Stats:
