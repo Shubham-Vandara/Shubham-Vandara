@@ -55,10 +55,6 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&hide_border=false)
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=shubham-vandara&icon=5&color=1)](https://visitcount.itsvg.in)
